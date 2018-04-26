@@ -1,0 +1,11 @@
+/* main.css */
+
+
+@media (max-width: 768px) 
+  { 
+    .float
+    {
+      float:right!important;
+      
+    } 
+  }
